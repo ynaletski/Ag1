@@ -30,5 +30,5 @@
 #include "digimag.h"
 #include "sens.h"
 #include "vol.h"
-
+#include "md5.h"
 
